@@ -1,0 +1,7 @@
+com\portfolio\portfolio_backend\controller\Controller.class
+com\portfolio\portfolio_backend\model\Habilidades.class
+com\portfolio\portfolio_backend\model\Educacion.class
+com\portfolio\portfolio_backend\model\Encabezado.class
+Config\WebConfig.class
+com\portfolio\portfolio_backend\model\AcercaDe.class
+com\portfolio\portfolio_backend\PortfolioBackendApplication.class
