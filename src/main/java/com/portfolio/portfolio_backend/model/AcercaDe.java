@@ -4,24 +4,32 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import lombok.Getter;
-import lombok.Setter;
+import jakarta.validation.constraints.NotNull;
 
-@Getter @Setter
 @Entity
 public class AcercaDe {
     
     @Id
     @GeneratedValue(strategy = GenerationType.AUTO)
-    private Long id;
+    private int id;
+    @NotNull
     private String descripcion;
 
-    public AcercaDe() {}
-    
-    public AcercaDe(Long id, String descripcion) {
-        this.id = id;
+    public AcercaDe() {}    
+    public AcercaDe(String descripcion) {
         this.descripcion = descripcion;
     }
-    
-    
+
+    public String getDescripcion() {
+        return descripcion;
+    }
+    public void setDescripcion(String descripcion) {
+        this.descripcion = descripcion;
+    }  
+    public int getId() {
+        return id;
+    }    
+    public void setId(int id) {
+        this.id = id;
+    }   
 }

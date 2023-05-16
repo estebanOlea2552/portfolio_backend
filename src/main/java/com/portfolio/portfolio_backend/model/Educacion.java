@@ -4,26 +4,41 @@ import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
 import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
-import lombok.Getter;
-import lombok.Setter;
+import jakarta.validation.constraints.NotNull;
 
-@Getter @Setter
 @Entity
 public class Educacion {
   
-   @Id
+  @Id
   @GeneratedValue(strategy = GenerationType.AUTO)
-  private Long id;
+  private int id;
+  @NotNull
   private String escuela;
+  @NotNull
   private String carrera;
 
-    public Educacion() {}
-    
-    public Educacion(Long id, String escuela, String carrera) {
-        this.id = id;
+    public Educacion() {}    
+    public Educacion(String escuela, String carrera) {
         this.escuela = escuela;
         this.carrera = carrera;
     }
-  
-  
+
+    public int getId() {
+        return id;
+    }
+    public void setId(int id) {
+        this.id = id;
+    }
+    public String getEscuela() {
+        return escuela;
+    }
+    public void setEscuela(String escuela) {
+        this.escuela = escuela;
+    }
+    public String getCarrera() {
+        return carrera;
+    }
+    public void setCarrera(String carrera) {
+        this.carrera = carrera;
+    }  
 }
