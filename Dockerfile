@@ -1,4 +1,4 @@
-FROM amazoncorretto:8-alpine-jdk
+FROM openjdk:17-jdk-alpine
 
 MAINTAINER esteban
 
