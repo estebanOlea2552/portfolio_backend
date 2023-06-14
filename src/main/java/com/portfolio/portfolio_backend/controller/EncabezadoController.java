@@ -21,9 +21,9 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/encabezado")
 //@CrossOrigin("http://localhost:4200")
-@CrossOrigin(origins = "https://portfolio-prueba-crud.web.app/")
+@CrossOrigin(origins = "https://portfolioweb-ed369.web.app/")
 public class EncabezadoController {
-    
+   
     @Autowired
     EncabezadoService encabezadoService;
     
