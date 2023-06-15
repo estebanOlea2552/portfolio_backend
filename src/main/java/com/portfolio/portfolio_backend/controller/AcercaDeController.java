@@ -20,7 +20,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/acercade")
 //@CrossOrigin(origins = "http://localhost:4200")
-@CrossOrigin(origins = "https://portfolioweb-ed369.firebaseapp.com/")
+@CrossOrigin(origins = "https://portfolio-prueba-crud.firebaseapp.com/")
 public class AcercaDeController {
     
     @Autowired
