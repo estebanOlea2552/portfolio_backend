@@ -1,23 +1,23 @@
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\EncabezadoService.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\Mensaje.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\HabilidadesController.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\WebConfig.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\EncabezadoController.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\EncabezadoRepository.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\HabilidadesRepository.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\EducacionDto.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\HabilidadesService.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\PortfolioBackendApplication.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\EducacionRepository.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\AcercaDeRepository.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\AcercaDeController.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\Educacion.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\EducacionController.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\HabilidadesDto.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\Habilidades.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\EncabezadoDto.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\AcercaDeService.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\EducacionService.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\Encabezado.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\AcercaDeDto.java
-F:\Informática\Argentina Programa\Trabajo final\Maquetado y diseño\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\AcercaDe.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\AcercaDeController.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\EducacionController.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\EncabezadoController.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\HabilidadesController.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\controller\Mensaje.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\AcercaDeDto.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\EducacionDto.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\EncabezadoDto.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\dto\HabilidadesDto.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\AcercaDe.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\Educacion.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\Encabezado.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\model\Habilidades.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\PortfolioBackendApplication.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\AcercaDeRepository.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\EducacionRepository.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\EncabezadoRepository.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\repository\HabilidadesRepository.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\AcercaDeService.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\EducacionService.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\EncabezadoService.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\services\HabilidadesService.java
+F:\Informática\Cursos\Argentina Programa\Trabajo final\portfolio_backend\src\main\java\com\portfolio\portfolio_backend\WebConfig.java

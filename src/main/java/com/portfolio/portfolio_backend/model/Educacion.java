@@ -8,16 +8,18 @@ import jakarta.validation.constraints.NotNull;
 
 @Entity
 public class Educacion {
-  
-  @Id
-  @GeneratedValue(strategy = GenerationType.AUTO)
-  private int id;
-  @NotNull
-  private String escuela;
-  @NotNull
-  private String carrera;
 
-    public Educacion() {}    
+    @Id
+    @GeneratedValue(strategy = GenerationType.AUTO)
+    private int id;
+    @NotNull
+    private String escuela;
+    @NotNull
+    private String carrera;
+
+    public Educacion() {
+    }
+
     public Educacion(String escuela, String carrera) {
         this.escuela = escuela;
         this.carrera = carrera;
@@ -26,19 +28,24 @@ public class Educacion {
     public int getId() {
         return id;
     }
+
     public void setId(int id) {
         this.id = id;
     }
+
     public String getEscuela() {
         return escuela;
     }
+
     public void setEscuela(String escuela) {
         this.escuela = escuela;
     }
+
     public String getCarrera() {
         return carrera;
     }
+
     public void setCarrera(String carrera) {
         this.carrera = carrera;
-    }  
+    }
 }
